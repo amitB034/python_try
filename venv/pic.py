@@ -1,11 +1,4 @@
-# from pykakasi import kakasi
 
-# kks = kakasi()
-# word = str(input("言葉を入れて下さい:"))
-
-# result = kks.convert(word)
-# for converted_word in result:
-#     print(f"{converted_word['hepburn']}", end="")
 
 
 from tkinter import filedialog
